@@ -116,7 +116,3 @@ Bharathi Matric Hr. Sec. School
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramprasathvelu&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
