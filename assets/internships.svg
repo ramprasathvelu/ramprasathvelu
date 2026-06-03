@@ -1,0 +1,38 @@
+<svg width="100%" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Internships and certifications</title>
+  <desc>Three internship entries and certifications</desc>
+
+  <rect x="0" y="0" width="800" height="200" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="0" y="0" width="800" height="4" rx="2" fill="#1D9E75"/>
+
+  <text x="20" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" font-weight="600" fill="#1D9E75">◈ INTERNSHIPS</text>
+
+  <!-- Row 1 -->
+  <rect x="20" y="38" width="8" height="8" rx="2" fill="#1D9E75"/>
+  <text x="36" y="47" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#e6edf3">VLSI Design Intern — NIELIT</text>
+  <text x="36" y="63" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8b949e">RTL to GDS-II flow · Verilog · YOSYS · Magic VLSI · OpenSTA</text>
+  <text x="680" y="47" text-anchor="end" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#5DCAA5">Dec 2025 – Feb 2026</text>
+
+  <!-- Row 2 -->
+  <rect x="20" y="82" width="8" height="8" rx="2" fill="#1D9E75"/>
+  <text x="36" y="91" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#e6edf3">Telecom Training Intern — BSNL</text>
+  <text x="36" y="107" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8b949e">2G/3G/4G/5G networks · Switching · TDM/FDM/DWDM</text>
+  <text x="680" y="91" text-anchor="end" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#5DCAA5">Jun 2025 – Jul 2025</text>
+
+  <!-- Row 3 -->
+  <rect x="20" y="126" width="8" height="8" rx="2" fill="#1D9E75"/>
+  <text x="36" y="135" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="600" fill="#e6edf3">Industrial Trainee — IoT &amp; PCB Design, KPRIET</text>
+  <text x="36" y="151" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8b949e">ESP32 · Arduino · Sensor Interfacing · PCB Prototyping</text>
+  <text x="680" y="135" text-anchor="end" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#5DCAA5">Nov 2025 – Dec 2025</text>
+
+  <line x1="710" y1="15" x2="710" y2="185" stroke="#21262d" stroke-width="0.5"/>
+  <text x="730" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" font-weight="600" fill="#85B7EB">◈ CERTS</text>
+  <text x="730" y="52" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8b949e">Coursera — DeepLearning.AI</text>
+  <text x="730" y="68" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#5b6370">Supervised ML: Regression</text>
+  <text x="730" y="92" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8b949e">Infosys Springboard 7.0</text>
+  <text x="730" y="108" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#5b6370">Data Science · NLP · AI</text>
+  <text x="730" y="132" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8b949e">NPTEL</text>
+  <text x="730" y="148" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#5b6370">Industry 4.0 · IIoT · VLSI</text>
+  <text x="730" y="172" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#8b949e">HackerRank</text>
+  <text x="730" y="188" font-family="'Segoe UI', system-ui, sans-serif" font-size="10" fill="#5b6370">Problem Solving · Java</text>
+</svg>
