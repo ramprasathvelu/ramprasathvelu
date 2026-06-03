@@ -23,7 +23,7 @@ industrial challenges. Aiming to contribute to smarter, sustainable systems alig
 
 | Project | Stack | Links |
 |---|---|---|
-| **AnomalyDetection** — Vision-based restricted area security | YOLOv8 · MediaPipe · NLP · AWS | [Repo ↗](https://github.com/ramprasathvelu/AnomalyDetection) |
+| **AnomalyDetection** — Vision-based restricted area security | YOLOv8 · MediaPipe · NLP · AWS | [Repo ↗](https://github.com/ramprasathvelu/Anamoly_detection) |
 | **BLU-PATH** — Embedded web-based indoor navigation | BRD2605A · C · WiseConnect · HTML | [Repo ↗](https://github.com/ramprasathvelu/BLU-PATH-Embedded-Web-Based-Indoor-Navigation-System) |
 | **CropGuard** — Crop disease severity classifier | Random Forest · XGBoost · Streamlit · AWS | [Repo ↗](https://github.com/ramprasathvelu/CropGuard) |
 | **AI Voice Thinker** — Offline voice home automation | VC-02 · ESP32 · UART · C | [Repo ↗](https://github.com/ramprasathvelu/AI-Voice-Thinker) |
@@ -54,5 +54,4 @@ industrial challenges. Aiming to contribute to smarter, sustainable systems alig
 <p align="center">
   <a href="mailto:veluramprasath777@gmail.com">📧 veluramprasath777@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/ramprasath-v">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="tel:+919360878206">+91 93608 78206</a>
 </p>
