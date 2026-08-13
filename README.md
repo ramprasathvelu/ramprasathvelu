@@ -1,13 +1,10 @@
-<img src="assets/header.svg" alt="Ramprasath V — ECE Engineer · Embedded Systems · IoT · VLSI · ML" width="100%"/>
+<img src="assets/header.svg" alt="Ramprasath V — ECE Engineer · Embedded Systems · IoT · SDE · Edge Ai" width="100%"/>
 
 <br/>
 
 ## 🎯 About me
 
-Final-year Electronics and Communication Engineering student with strong skills in embedded systems, industrial IoT,
-and AI-based real-time systems. Experienced in sensor integration, microcontrollers, MQTT communication, and
-computer vision for automation and anomaly detection. Focused on building efficient, intelligent solutions for real-world
-industrial challenges. Aiming to contribute to smarter, sustainable systems aligned with Industry 4.0.
+Final-year Electronics and Communication Engineering student with a strong interest in software development, embedded systems, IoT, AI, and Edge AI. I have hands-on knowledge of Java, Python, C, Embedded C, microcontrollers, sensors, communication protocols, REST APIs, Git, AWS, and machine learning. I have worked on projects involving IoT, embedded systems, computer vision, and AI-powered solutions using platforms such as ESP32, Arduino, Raspberry Pi, and Jetson Nano. I enjoy building practical, real-world solutions by combining hardware and software while continuously improving my technical and problem-solving skills. I am seeking an opportunity to contribute to innovative projects, learn from industry professionals, and grow as an engineer.
 
 <br/>
 
@@ -40,8 +37,8 @@ industrial challenges. Aiming to contribute to smarter, sustainable systems alig
 
 | Degree | Institution | Period | Score |
 |---|---|---|---|
-| B.E. Electronics & Communication Engineering | KPRIET, Coimbatore | 2023 – 2027 | CGPA 8.46 |
-| Higher Secondary Certificate (HSC) | Bharathi Matric Hr. Sec. School, Kallakurichi | 2022 – 2023 | 88.89% |
+| B.E. Electronics & Communication Engineering | KPRIET, Coimbatore | 2023 – 2027 | CGPA 8.57 |
+| Higher Secondary Certificate (HSC) | Bharathi Matric Hr. Sec. School, Kallakurichi | 2022 – 2023 | 88.86% |
 
 <br/>
 
@@ -53,5 +50,5 @@ industrial challenges. Aiming to contribute to smarter, sustainable systems alig
 
 <p align="center">
   <a href="mailto:veluramprasath777@gmail.com">📧 veluramprasath777@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/ramprasath-v">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ramprasath-v-43337b297/">LinkedIn</a> &nbsp;·&nbsp;
 </p>
