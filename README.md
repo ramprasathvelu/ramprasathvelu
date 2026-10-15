@@ -1,54 +1,193 @@
-<img src="assets/header.svg" alt="Ramprasath V — ECE Engineer · Embedded Systems · IoT · SDE · Edge Ai" width="100%"/>
+<!-- ============================================================
+  GitHub Profile README — Ramprasath V
+  Repo: ramprasathvelu/ramprasathvelu  (file: README.md)
+  Search for "TODO" to find the few links you may want to update.
+============================================================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ramprasath%20V&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=ECE%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20IoT%20%C2%B7%20Edge%20AI%20%C2%B7%20Software%20Developer&descSize=16&descAlignY=58" alt="Ramprasath V" />
+
+<a href="https://github.com/ramprasathvelu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CE0&center=true&vCenter=true&width=700&lines=Embedded+%26+Firmware+Engineer+in+the+making;Building+IoT+%26+Edge+AI+solutions+that+work+offline;Java+%7C+Embedded+C+%7C+Python+%7C+Spring+Boot;ESP32+%C2%B7+LoRa+%C2%B7+Raspberry+Pi+%C2%B7+YOLOv8+%C2%B7+TinyML" alt="Typing SVG" />
+</a>
 
 <br/>
 
-## 🎯 About me
+[![Email](https://img.shields.io/badge/Email-veluramprasath777%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veluramprasath777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramprasath-v-43337b297/)
+[![GitHub](https://img.shields.io/badge/GitHub-ramprasathvelu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramprasathvelu)
 
-Final-year Electronics and Communication Engineering student with a strong interest in software development, embedded systems, IoT, AI, and Edge AI. I have hands-on knowledge of Java, Python, C, Embedded C, microcontrollers, sensors, communication protocols, REST APIs, Git, AWS, and machine learning. I have worked on projects involving IoT, embedded systems, computer vision, and AI-powered solutions using platforms such as ESP32, Arduino, Raspberry Pi, and Jetson Nano. I enjoy building practical, real-world solutions by combining hardware and software while continuously improving my technical and problem-solving skills. I am seeking an opportunity to contribute to innovative projects, learn from industry professionals, and grow as an engineer.
+![Profile Views](https://komarev.com/ghpvc/?username=ramprasathvelu&label=Profile%20Views&color=2c5364&style=flat-square)
+![Location](https://img.shields.io/badge/Based%20in-Coimbatore%2C%20India-2c5364?style=flat-square&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Open%20to-SDE%20%2F%20Embedded%20Roles-2ea44f?style=flat-square)
 
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **final-year Electronics & Communication Engineering student** at **KPR Institute of Engineering and Technology, Coimbatore (Batch 2027)**, working at the intersection of **hardware and software**.
+
+On the **embedded side**, I build firmware in Embedded C on ESP32, Arduino and STM32, interface sensors over UART / SPI / I2C, and design LoRa and BLE based IoT systems. On the **software side**, I write Java and Python, build REST APIs with Spring Boot, work with MySQL / MongoDB, and deploy on AWS. I also enjoy **Edge AI**, running computer-vision and TinyML models offline on devices like the Raspberry Pi.
+
+I'm looking for **entry-level Software Development Engineer (SDE)** or **Embedded Software / Firmware Engineer** roles where I can build reliable, real-world systems and learn from experienced engineers.
+
+<table>
+<tr>
+<td>
+
+🔭 **Currently building** — *VitalHop*, a LoRa multi-hop patient monitoring system for no-network rural healthcare<br/>
+🎓 **Studying** — ECE, CGPA **8.46** · Batch 2027<br/>
+🏅 **Leading** — Public Relations Officer, IEEE Circuits and Systems Society (CAS), KPRIET<br/>
+💡 **Core interests** — Embedded Systems · IoT · Edge AI / TinyML · VLSI · Telecom · Backend Development<br/>
+🧩 **Problem solving** — 300+ problems solved on LeetCode
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔌 Embedded Systems & Hardware
+![C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Silicon Labs](https://img.shields.io/badge/Silicon_Labs-DD0031?style=for-the-badge&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-4B8BBE?style=for-the-badge&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-FF6600?style=for-the-badge&logoColor=white)
+
+`GPIO` · `ADC` · `PWM` · `Timers` · `Interrupts` · `PCB Design`
+
+### 📡 Communication, IoT & Cloud
+![LoRa](https://img.shields.io/badge/LoRa-1E90FF?style=for-the-badge&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-2C5364?style=for-the-badge&logo=wifi&logoColor=white)
+![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+`UART` · `SPI` · `I2C` · `TCP/IP` · `HTTP/HTTPS` · `REST APIs`
+
+### 💻 Software Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+`Data Structures & Algorithms` · `OOP` · `Computer Networks` · `JSON`
+
+### 🤖 Edge AI & Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logoColor=white)
+![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### ☁️ Cloud, VLSI & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog_HDL-8A2BE2?style=for-the-badge&logoColor=white)
+
+`AWS: IAM · EC2 · S3 · ALB · Lambda · CloudWatch` · `YOSYS` · `OpenSTA` · `Magic VLSI` · `Icarus Verilog` · `Arduino IDE` · `MobaXterm` · `PuTTY`
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech Stack | Links |
+| :-- | :-- | :-- | :-- |
+| 🏥 **VitalHop** <br/>*(Ongoing)* | LoRa-based **multi-hop patient monitoring** for no-network rural healthcare. ESP32 firmware for real-time vitals, LoRa routing with **ACK, retransmission and route recovery**, and **priority-based data handling** with TinyML and store-and-forward. | `ESP32` `LoRa` `Embedded C` `TinyML` | [Repo ↗](https://github.com/ramprasathvelu?tab=repositories) <!-- TODO: replace with the VitalHop repo link --> |
+| 🛡️ **AnomalyDetection** | Vision-based **restricted-area security**. Real-time YOLOv8 video analytics pipeline, alerts **cross-verified through NLP-based security log analysis** to cut false positives, with automated SMS / email alerts. *Presented at the AICTE-Sponsored International Conference, KPRIET (Apr 2026).* | `YOLOv8` `Python` `NLP` `Twilio` `SMTP` | [Repo ↗](https://github.com/ramprasathvelu/Anamoly_detection) |
+| 🧭 **BluePath** | **Embedded web-based indoor navigation** for GPS-denied environments. Embedded HTTP server on Silicon Labs BRD2605A, WiseConnect SDK localization, and QR-code + Wi-Fi access-point campus navigation. | `BRD2605A` `C` `WiseConnect` `HTML` | [Repo ↗](https://github.com/ramprasathvelu/BLU-PATH-Embedded-Web-Based-Indoor-Navigation-System) |
+| 🤟 **Sign Language Interpreter** | **Offline Edge AI** interpreter on Raspberry Pi 4. Extracts 21 hand landmarks with MediaPipe, classifies gestures with a Random Forest on 63 features, and speaks the result using TTS. | `MediaPipe` `Random Forest` `Raspberry Pi 4` `TTS` | [Repo ↗](https://github.com/ramprasathvelu?tab=repositories) <!-- TODO: replace with the Sign Language repo link --> |
+| 💰 **FinTrack** | **Personal finance manager**: CRUD application with REST APIs for expense and transaction management, backed by well-designed MySQL database operations. | `Java` `MySQL` `REST APIs` | [Repo ↗](https://github.com/ramprasathvelu?tab=repositories) <!-- TODO: replace with the FinTrack repo link --> |
+| 📚 **Library Management System** | Console-based Java application with authentication, book management, borrowing and fine-calculation modules, using the Collections Framework for efficient data handling. | `Java` `OOP` `Collections` | [Repo ↗](https://github.com/ramprasathvelu?tab=repositories) <!-- TODO: replace with the Library Management repo link --> |
+
+<details>
+<summary><b>➕ More projects</b></summary>
 <br/>
 
-## 🛠️ Skills
+| Project | What it does | Tech Stack | Links |
+| :-- | :-- | :-- | :-- |
+| 🌾 **CropGuard** | Crop disease **severity classifier** with a Streamlit interface. | `Random Forest` `XGBoost` `Streamlit` `AWS` | [Repo ↗](https://github.com/ramprasathvelu/CropGuard) |
+| 🎙️ **AI Voice Thinker** | **Offline voice-controlled home automation** using a VC-02 voice module and ESP32 over UART. | `VC-02` `ESP32` `UART` `C` | [Repo ↗](https://github.com/ramprasathvelu/AI-Voice-Thinker) |
 
-<img src="assets/skills.svg" alt="Skills — Hardware & Embedded, VLSI & Digital Design, ML & Data Science, Software & Cloud" width="100%"/>
+</details>
 
-<br/>
+---
 
-## 🚀 Featured projects
+## 💼 Experience
 
-<img src="assets/projects.svg" alt="Projects — AnomalyDetection, BLU-PATH, CropGuard, AI Voice Thinker" width="100%"/>
+| Period | Role | Organization | Highlights |
+| :-- | :-- | :-- | :-- |
+| **Apr 2026 – Jul 2026** | Java Programming Intern *(Remote)* | **Code Alpha** | Built Java applications using OOP, Collections and file handling. Debugged backend logic, optimized runtime performance and improved maintainability. |
+| **Dec 2025 – Feb 2026** | VLSI Design Intern *(Remote)* | **NIELIT** | Implemented a complete **RTL-to-GDSII** flow using Verilog HDL, Icarus Verilog, YOSYS and OpenSTA. Did floorplanning, CTS, routing and IC layout in Magic VLSI. |
+| **Nov 2025 – Dec 2025** | Industrial Trainee | **Centre of IoT and PCB Design, KPRIET** | Built IoT and embedded applications with sensors, ESP32 and Arduino. Designed PCB schematics and layouts. |
+| **Jun 2025 – Jul 2025** | Telecom Training Intern | **BSNL (Bharat Sanchar Nigam Limited)**, Kallakurichi | Gained exposure to 2G/3G/4G/5G networks, switching systems and broadband. Analyzed TDM, FDM and DWDM technologies. |
 
-| Project | Stack | Links |
-|---|---|---|
-| **AnomalyDetection** — Vision-based restricted area security | YOLOv8 · MediaPipe · NLP · AWS | [Repo ↗](https://github.com/ramprasathvelu/Anamoly_detection) |
-| **BLU-PATH** — Embedded web-based indoor navigation | BRD2605A · C · WiseConnect · HTML | [Repo ↗](https://github.com/ramprasathvelu/BLU-PATH-Embedded-Web-Based-Indoor-Navigation-System) |
-| **CropGuard** — Crop disease severity classifier | Random Forest · XGBoost · Streamlit · AWS | [Repo ↗](https://github.com/ramprasathvelu/CropGuard) |
-| **AI Voice Thinker** — Offline voice home automation | VC-02 · ESP32 · UART · C | [Repo ↗](https://github.com/ramprasathvelu/AI-Voice-Thinker) |
-
-<br/>
-
-## 💼 Experience & certifications
-
-<img src="assets/internships.svg" alt="Internships — NIELIT VLSI, BSNL Telecom, KPRIET IoT & PCB" width="100%"/>
-
-<br/>
+---
 
 ## 🎓 Education
 
 | Degree | Institution | Period | Score |
-|---|---|---|---|
-| B.E. Electronics & Communication Engineering | KPRIET, Coimbatore | 2023 – 2027 | CGPA 8.57 |
-| Higher Secondary Certificate (HSC) | Bharathi Matric Hr. Sec. School, Kallakurichi | 2022 – 2023 | 88.86% |
+| :-- | :-- | :-- | :-- |
+| B.E. Electronics & Communication Engineering | KPR Institute of Engineering and Technology, Coimbatore | 2023 – 2027 | **CGPA 8.46** |
+| Higher Secondary Certificate (HSC) | Bharathi Matric Higher Secondary School, Kallakurichi | 2022 – 2023 | **88.86%** |
 
-<br/>
+---
 
-## 🏅 Activities
+## 📜 Certifications & Coding Profile
 
-- **Public Relations Officer** — IEEE Circuits and Systems Society (CAS), KPRIET
+- 🎓 **NPTEL** — Introduction to Industry 4.0 and IIoT · Microelectronics: Devices to Circuit · Microsensors and Nanosensors
+- 🎓 **Coursera** — Supervised Machine Learning: Regression and Classification
+- 🧩 **LeetCode** — 300+ problems solved
+- 🧩 **HackerRank** — Problem Solving, Java
 
-<br/>
+---
 
-<p align="center">
-  <a href="mailto:veluramprasath777@gmail.com">📧 veluramprasath777@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ramprasath-v-43337b297/">LinkedIn</a> &nbsp;·&nbsp;
-</p>
+## 🏅 Activities & Achievements
+
+- 🎤 **Public Relations Officer** — IEEE Circuits and Systems Society (CAS), KPRIET
+- 🏆 Presented **AnomalyDetection** at the **AICTE-Sponsored International Conference**, KPRIET (April 2026)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ramprasathvelu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathvelu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=ramprasathvelu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **internships, entry-level SDE and Embedded / Firmware roles**, and collaborations on IoT, Edge AI and embedded projects. Feel free to reach out!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Send_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veluramprasath777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramprasath-v-43337b297/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+
+*⭐ If you like my work, consider starring a repo. Thanks for visiting!*
+
+</div>
