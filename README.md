@@ -1,9 +1,3 @@
-<!-- ============================================================
-  GitHub Profile README — Ramprasath V
-  Repo: ramprasathvelu/ramprasathvelu  (file: README.md)
-  Search for "TODO" to find the few links you may want to update.
-============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ramprasath%20V&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=ECE%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20IoT%20%C2%B7%20Edge%20AI%20%C2%B7%20Software%20Developer&descSize=16&descAlignY=58" alt="Ramprasath V" />
@@ -32,14 +26,14 @@ I'm a **final-year Electronics & Communication Engineering student** at **KPR In
 
 On the **embedded side**, I build firmware in Embedded C on ESP32, Arduino and STM32, interface sensors over UART / SPI / I2C, and design LoRa and BLE based IoT systems. On the **software side**, I write Java and Python, build REST APIs with Spring Boot, work with MySQL / MongoDB, and deploy on AWS. I also enjoy **Edge AI**, running computer-vision and TinyML models offline on devices like the Raspberry Pi.
 
-I'm looking for **entry-level Software Development Engineer (SDE)** or **Embedded Software / Firmware Engineer** roles where I can build reliable, real-world systems and learn from experienced engineers.
+I'm looking for **Embedded Software / Firmware Engineer** or **entry-level Software Development Engineer (SDE)** roles where I can build reliable, real-world systems and learn from experienced engineers.
 
 <table>
 <tr>
 <td>
 
 🔭 **Currently building** — *VitalHop*, a LoRa multi-hop patient monitoring system for no-network rural healthcare<br/>
-🎓 **Studying** — ECE, CGPA **8.46** · Batch 2027<br/>
+🎓 **Studying** — ECE, CGPA **8.57** · Batch 2027<br/>
 🏅 **Leading** — Public Relations Officer, IEEE Circuits and Systems Society (CAS), KPRIET<br/>
 💡 **Core interests** — Embedded Systems · IoT · Edge AI / TinyML · VLSI · Telecom · Backend Development<br/>
 🧩 **Problem solving** — 300+ problems solved on LeetCode
@@ -108,12 +102,12 @@ I'm looking for **entry-level Software Development Engineer (SDE)** or **Embedde
 
 | Project | What it does | Tech Stack | Links |
 | :-- | :-- | :-- | :-- |
-| 🏥 **VitalHop** <br/>*(Ongoing)* | LoRa-based **multi-hop patient monitoring** for no-network rural healthcare. ESP32 firmware for real-time vitals, LoRa routing with **ACK, retransmission and route recovery**, and **priority-based data handling** with TinyML and store-and-forward. | `ESP32` `LoRa` `Embedded C` `TinyML` | [Repo ↗](https://github.com/ramprasathvelu?tab=repositories) <!-- TODO: replace with the VitalHop repo link --> |
+| 🏥 **VitalHop** <br/>*(Ongoing)* | LoRa-based **multi-hop patient monitoring** for no-network rural healthcare. ESP32 firmware for real-time vitals, LoRa routing with **ACK, retransmission and route recovery**, and **priority-based data handling** with TinyML and store-and-forward. | `ESP32` `LoRa` `Embedded C` `TinyML` | [Repo ↗](https://github.com/ramprasathvelu/VitalHop) <!-- TODO: replace with the VitalHop repo link --> |
 | 🛡️ **AnomalyDetection** | Vision-based **restricted-area security**. Real-time YOLOv8 video analytics pipeline, alerts **cross-verified through NLP-based security log analysis** to cut false positives, with automated SMS / email alerts. *Presented at the AICTE-Sponsored International Conference, KPRIET (Apr 2026).* | `YOLOv8` `Python` `NLP` `Twilio` `SMTP` | [Repo ↗](https://github.com/ramprasathvelu/Anamoly_detection) |
 | 🧭 **BluePath** | **Embedded web-based indoor navigation** for GPS-denied environments. Embedded HTTP server on Silicon Labs BRD2605A, WiseConnect SDK localization, and QR-code + Wi-Fi access-point campus navigation. | `BRD2605A` `C` `WiseConnect` `HTML` | [Repo ↗](https://github.com/ramprasathvelu/BLU-PATH-Embedded-Web-Based-Indoor-Navigation-System) |
-| 🤟 **Sign Language Interpreter** | **Offline Edge AI** interpreter on Raspberry Pi 4. Extracts 21 hand landmarks with MediaPipe, classifies gestures with a Random Forest on 63 features, and speaks the result using TTS. | `MediaPipe` `Random Forest` `Raspberry Pi 4` `TTS` | [Repo ↗](https://github.com/ramprasathvelu?tab=repositories) <!-- TODO: replace with the Sign Language repo link --> |
-| 💰 **FinTrack** | **Personal finance manager**: CRUD application with REST APIs for expense and transaction management, backed by well-designed MySQL database operations. | `Java` `MySQL` `REST APIs` | [Repo ↗](https://github.com/ramprasathvelu?tab=repositories) <!-- TODO: replace with the FinTrack repo link --> |
-| 📚 **Library Management System** | Console-based Java application with authentication, book management, borrowing and fine-calculation modules, using the Collections Framework for efficient data handling. | `Java` `OOP` `Collections` | [Repo ↗](https://github.com/ramprasathvelu?tab=repositories) <!-- TODO: replace with the Library Management repo link --> |
+| 🤟 **Sign Language Interpreter** | **Offline Edge AI** interpreter on Raspberry Pi 4. Extracts 21 hand landmarks with MediaPipe, classifies gestures with a Random Forest on 63 features, and speaks the result using TTS. | `MediaPipe` `Random Forest` `Raspberry Pi 4` `TTS` | [Repo ↗](https://github.com/ramprasathvelu/sign-language-interpreter-edge-ai) <!-- TODO: replace with the Sign Language repo link --> |
+| 💰 **FinTrack** | **Personal finance manager**: CRUD application with REST APIs for expense and transaction management, backed by well-designed MySQL database operations. | `Java` `MySQL` `REST APIs` | [Repo ↗](https://github.com/ramprasathvelu/Expense_Tracker) <!-- TODO: replace with the FinTrack repo link --> |
+| 📚 **Library Management System** | Console-based Java application with authentication, book management, borrowing and fine-calculation modules, using the Collections Framework for efficient data handling. | `Java` `OOP` `Collections` | [Repo ↗](https://github.com/ramprasathvelu/Library_Management_System) <!-- TODO: replace with the Library Management repo link --> |
 
 <details>
 <summary><b>➕ More projects</b></summary>
