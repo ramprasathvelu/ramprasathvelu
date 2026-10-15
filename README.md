@@ -137,7 +137,7 @@ I'm looking for **Embedded Software / Firmware Engineer** or **entry-level Softw
 
 | Degree | Institution | Period | Score |
 | :-- | :-- | :-- | :-- |
-| B.E. Electronics & Communication Engineering | KPR Institute of Engineering and Technology, Coimbatore | 2023 – 2027 | **CGPA 8.46** |
+| B.E. Electronics & Communication Engineering | KPR Institute of Engineering and Technology, Coimbatore | 2023 – 2027 | **CGPA 8.57** |
 | Higher Secondary Certificate (HSC) | Bharathi Matric Higher Secondary School, Kallakurichi | 2022 – 2023 | **88.86%** |
 
 ---
